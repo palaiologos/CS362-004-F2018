@@ -32,7 +32,7 @@ int main() {
   printf ("RANDOMLY TESTING Village Card:\n");
 
   // Test 1,000 times with random players and card actions.
-  for (i = 0; i <= 1000; i++) {
+  for (i = 0; i <= 10000; i++) {
     // Keep track of passed tests.
     int tests_passed = 0;
 
